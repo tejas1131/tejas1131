@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Chavan</h1>
 <h3 align="center">An aspiring MERN stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="coding" width=400px scr="[https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas1131&label=Profile%20views&color=0e75b6&style=flat" alt="tejas1131" /> </p>
 
